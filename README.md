@@ -31,8 +31,8 @@
 ## 💬 Connect with Me
 
 - 📫 **Email**: [atulagrawal@example.com](mailto:atulagrawal9131291691@gmail.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/atul-agrawal](https://linkedin.com/in/atul-agrawal)
-- 📸 **Instagram**: [instagram.com/atul.agrawal](https://instagram.com/atul.agrawal)
+- 🌐 **LinkedIn**: [linkedin.com/in/atul-agrawal](https://linkedin.com/in/atul91)
+- 📸 **Instagram**: [instagram.com/atul.agrawal](https://instagram.com/atul_agrawal18)
 - 🏗️ **Portfolio**: [atulagrawal.github.io](https://atulagrawal.github.io) *(Coming Soon!)*
 
 ---
