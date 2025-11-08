@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 
-- 🎓 Second-year engineering student passionate about coding and technology.
-- 💡 Skilled in **C**, **C++**, **Java**, **HTML**, and **CSS**.
+- 🎓 Third-year engineering student passionate about coding and technology.
+- 💡 Skilled in **C**, **C++**, **HTML**, **CSS**, and **Flask**.
 - 🌱 Continuously learning and exploring new technologies to enhance my skills.
 - 🚀 Building projects that combine creativity and functionality.
 
